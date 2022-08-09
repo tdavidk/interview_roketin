@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981880202508",
+    "project_id": "interview-3d191",
+    "storage_bucket": "interview-3d191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981880202508:android:c7154c5a2c94ba73a05529",
+        "android_client_info": {
+          "package_name": "com.davidkurniawan.interviewroketin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981880202508-k73ne0iju906932r7aseivno8ldfjdn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davidkurniawan.interviewroketin",
+            "certificate_hash": "99dac2b96a59d4c8907799c09c04d22d43765f0f"
+          }
+        },
+        {
+          "client_id": "981880202508-pr5o07558rta25pu6hj74qodipcjikb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUik7e52JEdPp3tkv1CK6XL_UGM3OsFdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981880202508-pr5o07558rta25pu6hj74qodipcjikb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
